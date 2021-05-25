@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Craig McDonald	craigmcd58@comcast.net
 
 # THANKS
 
